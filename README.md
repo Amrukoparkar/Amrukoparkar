@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @Amrukoparkar
 - 👀 I’m interested in Web D(frontend) & Graphic Design
 - 🌱 I’m currently learning C and Java Script.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ..
+- 📫 How to reach me: amrutakopoarkar1@gmail.com
 - 😄 Pronouns: she / her
-- ⚡ Fun fact: ...
+
 
 <!---
 Amrukoparkar/Amrukoparkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
