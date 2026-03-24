@@ -1,84 +1,67 @@
-<h1 align="center">👋 Hi, I'm Amruta Koparkar</h1>
+# 🚀 Amruta Koparkar  
 
-🎓 **3rd Year EXTC Engineering Student — SSGMCE Shegaon**  
-💻 **Full-Stack Developer | C++ Developer**  
-🔧 **Open-Source Contributor | FABLAB Member**  
-🚀 Passionate about building scalable and user-centric web applications
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00E0E5&width=435&lines=💻+Full+Stack+Developer;🚀+DSA+Enthusiast;✨+Building+Real+World+Projects" />
+</a>
 
----
-
-## 🌟 Career Objective
-A dedicated **Full-Stack Developer** eager to apply development skills in real-world projects while continuously learning and contributing to organizational growth.
+<p align="right">
+<img src="https://komarev.com/ghpvc/?username=Amrukoparkar&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
-## 🛠️ Technical Skills
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Amrukoparkar&theme=tokyonight&no-frame=false&no-bg=true&margin-w=7)
 
-### 💻 Languages
-- C, C++, Python, JavaScript
+---
 
-### 📌 Data Structures & Algorithms
-- Arrays, Linked List, Stacks, Queues, Recursion, Trees, Graphs, Searching, Sorting, OOP
+## 💫 About Me
+- 🔭 I’m currently working on **Full-Stack Projects & DSA (Striver A2Z Sheet)**  
+- 🌱 I’m currently learning **Data Structures & Backend Development**  
+- 👯 I’m looking to collaborate on **Web Development & Open Source**  
+- 💬 Ask me about **C++, JavaScript, React, DSA**  
+- ⚡ Fun fact: **I solve coding problems daily 💡**  
 
-### 🎨 Frontend
-- HTML, CSS, React.js, Tailwind CSS
+---
 
-### 🔧 Backend
-- Node.js, Express.js
-
-### 🗄 Database
-- MySQL, MongoDB
-
-### 🔨 Tools & Platforms
-- Git, GitHub, VS Code, Postman
+## 🛠️ Tech Stack
+- 💻 Languages: **C++, Python, JavaScript**  
+- 🎨 Frontend: **HTML, CSS, React, Tailwind**  
+- 🔧 Backend: **Node.js, Express.js**  
+- 🗄️ Database: **MongoDB, MySQL**  
+- 🧰 Tools: **Git, GitHub, VS Code, Postman**  
 
 ---
 
 ## 🚀 Projects
-
-| Project | Description |
-|--------|-------------|
-| **JetonClone – Online Payment Platform** | A secure platform simulating online transactions with authentication & transaction history |
-| **EdVenture – Online Learning Platform** | Dashboard-based learning portal with enrolled course tracking & video lectures |
-| **Yoga-Ease – Fitness Platform** | Personalized yoga & posture guidance video platform |
-| **GamingZone – Browser Gaming Website** | Collection of interactive mini-games with responsive UI |
-| **Voter-Verification Public** | Secure system to verify candidate eligibility for voting |
+- 🔹 **Employee Management System** – MERN-based task system  
+- 🔹 **AI Resume Analyzer** – Resume-job matching tool  
+- 🔹 **Password Manager** – C++ file handling project  
+- 🔹 **To-Do Web App** – Task manager using JavaScript  
 
 ---
 
-## 💼 Experience
+## 📊 GitHub Stats
 
-### 🌐 Web Development Intern — Bharat Intern (2024)
-- Built responsive websites and collaborated using Git & GitHub version control.
+![](https://github-readme-stats.vercel.app/api?username=Amrukoparkar&theme=tokyonight&show_icons=true)
 
-### 🧩 FABLAB Member & Mentor (2023 – Present)
-- Guided students in electronics projects and software fundamentals.
+![](https://github-readme-streak-stats.herokuapp.com/?user=Amrukoparkar&theme=tokyonight)
 
----
-
-## 🎯 Achievements
-- Delivered Technical Workshops for **50+ students**
-- **Hacktoberfest Open-Source Contributor**
-- Strong Problem-Solving & DSA Practice
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Amrukoparkar&theme=tokyonight&layout=compact)
 
 ---
 
-## 🎓 Education
-| Degree | Institute | Year | Score |
-|--------|-----------|------|-------|
-| B.E – Electronics & Telecommunication (EXTC) | SSGMCE Shegaon | 2023–2027 | 7.00 SGPA |
-| HSC – State Board | DCV Jr. College, Seloo | 2023 | 70.50% |
+## 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Amrukoparkar&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
 
-## 🔗 Connect with Me
-🌐 **Portfolio:** https://amrukoparkar.github.io/portfolio/  
-💼 **LinkedIn:** https://www.linkedin.com/in/amruta-koparkar-415862294/  
-📂 **GitHub:** https://github.com/Amrukoparkar  
-📩 **Email:** **amrukoparkar@gmail.com**
+## 🌐 Connect with Me
+- 💼 LinkedIn: https://www.linkedin.com/in/amruta-koparkar-415862294/  
+- 🌐 Portfolio: https://amrukoparkar.github.io/portfolio/  
+- 💻 GitHub: https://github.com/Amrukoparkar  
+- 💡 LeetCode: https://leetcode.com/u/Amru_ta/  
 
 ---
 
-### ✨ Quote
-> _"Strive to build, learn, and grow — every day."_
-
+<p align="center">✨ Learn • Build • Grow ✨</p>
