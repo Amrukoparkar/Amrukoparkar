@@ -1,9 +1,8 @@
 # 🚀 Amruta Koparkar  
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00E0E5&width=435&lines=💻+Full+Stack+Developer;🚀+DSA+Enthusiast;✨+Building+Real+World+Projects" />
-</a>
-
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00E0E5&center=true&width=435&lines=%F0%9F%92%BB+Full+Stack+Developer;%F0%9F%9A%80+DSA+Enthusiast;%E2%9C%A8+Building+Projects" />
+</p>
 
 
 ## 💫 About Me
