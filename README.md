@@ -1,67 +1,60 @@
-# 🚀 Amruta Koparkar  
+# Hi, I'm Amruta 👋
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00E0E5&width=435&lines=💻+Full+Stack+Developer;🚀+DSA+Enthusiast;✨+Building+Real+World+Projects" />
-</a>
-
-<p align="right">
-<img src="https://komarev.com/ghpvc/?username=Amrukoparkar&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+🎓 EXTC Engineering Student (2023–2027)
+💻 Full-Stack Developer | Problem Solver
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Amrukoparkar&theme=tokyonight&no-frame=false&no-bg=true&margin-w=7)
+## 💼 About Me
 
----
-
-## 💫 About Me
-- 🔭 I’m currently working on **Full-Stack Projects & DSA (Striver A2Z Sheet)**  
-- 🌱 I’m currently learning **Data Structures & Backend Development**  
-- 👯 I’m looking to collaborate on **Web Development & Open Source**  
-- 💬 Ask me about **C++, JavaScript, React, DSA**  
-- ⚡ Fun fact: **I solve coding problems daily 💡**  
+Motivated engineering student with strong fundamentals in Data Structures and SQL, and hands-on experience in web development.
+Focused on building real-world applications and improving problem-solving skills.
 
 ---
 
 ## 🛠️ Tech Stack
-- 💻 Languages: **C++, Python, JavaScript**  
-- 🎨 Frontend: **HTML, CSS, React, Tailwind**  
-- 🔧 Backend: **Node.js, Express.js**  
-- 🗄️ Database: **MongoDB, MySQL**  
-- 🧰 Tools: **Git, GitHub, VS Code, Postman**  
+
+**Languages:** C++, Python, JavaScript
+**Core:** Data Structures, OOP
+**Frontend:** HTML, CSS, React.js
+**Backend:** Node.js
+**Database:** MySQL, MongoDB
 
 ---
 
 ## 🚀 Projects
-- 🔹 **Employee Management System** – MERN-based task system  
-- 🔹 **AI Resume Analyzer** – Resume-job matching tool  
-- 🔹 **Password Manager** – C++ file handling project  
-- 🔹 **To-Do Web App** – Task manager using JavaScript  
+
+* **Employee Management System** – MERN-based task management system
+* **AI Resume Analyzer** – Resume-job matching using basic NLP
+* **Password Manager** – C++ console app using file handling
+* **To-Do Web App** – Task management using JavaScript
 
 ---
 
-## 📊 GitHub Stats
+## 💼 Experience
 
-![](https://github-readme-stats.vercel.app/api?username=Amrukoparkar&theme=tokyonight&show_icons=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Amrukoparkar&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Amrukoparkar&theme=tokyonight&layout=compact)
+* **Full-Stack Developer Intern** – Cognifyz Technologies (2026)
+* **Web Developer Intern** – Cloud Counselage (2025)
+* **Web Development Intern** – Bharat Intern (2024)
 
 ---
 
-## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Amrukoparkar&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+## 🎯 Achievements
+
+* Hacktoberfest Contributor
+* Conducted Technical Workshops
+* Mentor at Digital FabLab
+* Project Mentor at ATL (Lend A Hand India)
 
 ---
 
-## 🌐 Connect with Me
-- 💼 LinkedIn: https://www.linkedin.com/in/amruta-koparkar-415862294/  
-- 🌐 Portfolio: https://amrukoparkar.github.io/portfolio/  
-- 💻 GitHub: https://github.com/Amrukoparkar  
-- 💡 LeetCode: https://leetcode.com/u/Amru_ta/  
+## 🔗 Connect
+
+🌐 Portfolio: https://amrukoparkar.github.io/portfolio/
+💼 LinkedIn: https://www.linkedin.com/in/amruta-koparkar-415862294/
+📂 GitHub: https://github.com/Amrukoparkar
+💡 LeetCode: https://leetcode.com/u/Amru_ta/
 
 ---
 
-<p align="center">✨ Learn • Build • Grow ✨</p>
+✨ *Focused on learning, building, and growing every day.*
