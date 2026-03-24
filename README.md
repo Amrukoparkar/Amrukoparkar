@@ -1,60 +1,47 @@
-# Hi, I'm Amruta 👋
+# 🚀 Amruta Koparkar  
 
-🎓 EXTC Engineering Student (2023–2027)
-💻 Full-Stack Developer | Problem Solver
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00E0E5&width=435&lines=💻+Full+Stack+Developer;🚀+DSA+Enthusiast;✨+Building+Real+World+Projects" />
+</a>
 
----
 
-## 💼 About Me
 
-Motivated engineering student with strong fundamentals in Data Structures and SQL, and hands-on experience in web development.
-Focused on building real-world applications and improving problem-solving skills.
+## 💫 About Me
+- 🔭 I’m currently working on **Full-Stack Projects & DSA**  
+- 🌱 I’m currently learning **Data Structures & Backend Development**  
+- 👯 I’m looking to collaborate on **Web Development & Open Source**  
+- 💬 Ask me about **C++, JavaScript, React, DSA**  
+ 
 
 ---
 
 ## 🛠️ Tech Stack
-
-**Languages:** C++, Python, JavaScript
-**Core:** Data Structures, OOP
-**Frontend:** HTML, CSS, React.js
-**Backend:** Node.js
-**Database:** MySQL, MongoDB
-
----
-
-## 🚀 Projects
-
-* **Employee Management System** – MERN-based task management system
-* **AI Resume Analyzer** – Resume-job matching using basic NLP
-* **Password Manager** – C++ console app using file handling
-* **To-Do Web App** – Task management using JavaScript
+- 💻 Languages: **C++, Python, JavaScript**  
+- 🎨 Frontend: **HTML, CSS, React, Tailwind**  
+- 🔧 Backend: **Node.js, Express.js**  
+- 🗄️ Database: **MongoDB, MySQL**  
+  
 
 ---
 
-## 💼 Experience
 
-* **Full-Stack Developer Intern** – Cognifyz Technologies (2026)
-* **Web Developer Intern** – Cloud Counselage (2025)
-* **Web Development Intern** – Bharat Intern (2024)
 
----
+## 📊 GitHub Stats
 
-## 🎯 Achievements
+![](https://github-readme-stats.vercel.app/api?username=Amrukoparkar&theme=tokyonight&show_icons=true)
 
-* Hacktoberfest Contributor
-* Conducted Technical Workshops
-* Mentor at Digital FabLab
-* Project Mentor at ATL (Lend A Hand India)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Amrukoparkar&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Amrukoparkar&theme=tokyonight&layout=compact)
 
 ---
 
-## 🔗 Connect
 
-🌐 Portfolio: https://amrukoparkar.github.io/portfolio/
-💼 LinkedIn: https://www.linkedin.com/in/amruta-koparkar-415862294/
-📂 GitHub: https://github.com/Amrukoparkar
-💡 LeetCode: https://leetcode.com/u/Amru_ta/
+## 🌐 Connect with Me
+- 💼 LinkedIn: https://www.linkedin.com/in/amruta-koparkar-415862294/    
+- 💻 GitHub: https://github.com/Amrukoparkar  
+- 💡 LeetCode: https://leetcode.com/u/Amru_ta/  
 
 ---
 
-✨ *Focused on learning, building, and growing every day.*
+<p align="center">✨ Learn • Build • Grow ✨</p>
