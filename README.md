@@ -1,7 +1,5 @@
  
-<p align="center">
-<h1> Amruta Koparkar</h1> 
-</p>
+<p align="center"> <h1> Amruta Koparkar</h1>  </p>
 
 
 ## 💫 About Me
