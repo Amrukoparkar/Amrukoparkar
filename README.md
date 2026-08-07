@@ -1,6 +1,6 @@
  
 <p align="center">
-## Amruta Koparkar 
+<h1> Amruta Koparkar</h1> 
 </p>
 
 
