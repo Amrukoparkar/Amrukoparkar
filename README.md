@@ -5,17 +5,17 @@
 
 
 ## 💫 About Me
-- 🔭 I’m currently working on **Full-Stack Projects & DSA**  
+- 🔭 I’m currently working on **Java Full-Stack Dev & DSA**  
 - 🌱 I’m currently learning **Data Structures & Backend Development**  
-- 👯 I’m looking to collaborate on **Web Development & Open Source**  
+- 👯 I’m looking to collaborate on **Open Source**  
 - 💬 Ask me about **C++, JavaScript, React, DSA**  
  
 
 ---
 
 ## 🛠️ Tech Stack
-- 💻 Languages: **C++, Python, JavaScript**  
-- 🎨 Frontend: **HTML, CSS, React, Tailwind**  
+- 💻 Languages: **C++, Java, JavaScript**  
+- 🎨 Frontend: **HTML, CSS, React**  
 - 🔧 Backend: **Node.js, Express.js**  
 - 🗄️ Database: **MongoDB, MySQL**  
   
